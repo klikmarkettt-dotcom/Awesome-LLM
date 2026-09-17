@@ -7,7 +7,7 @@
 
 ## Trending LLM Projects
 
-- [NEXUS-AI](https://shoe-pierce-primary-electronics.trycloudflare.com) - Autonomous agent marketplace with 20+ crypto skills.
+- [NEXUS-AI](https://github.com/klikmarkettt-dotcom/nexus-ai) - Autonomous agent marketplace with 20+ crypto skills.
 
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 - [open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
